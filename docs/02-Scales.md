@@ -38,7 +38,7 @@ afterUpdate | Function | undefined | Callback that runs at the end of the update
 **scaleLabel** | Object | | See [scale title configuration](#scale-title-configuration) section.
 **ticks** | Object | | See [tick configuration](#tick-configuration) section.
 
-#### Grid Line Configuration
+#### Grid Line Configuration <a name="grid-line-configuration"></a>
 
 The grid line configuration is nested under the scale configuration in the `gridLines` key. It defines options for the grid lines that run perpendicular to the axis.
 
